@@ -18,6 +18,7 @@ body {
 
 .photo{
     margin-left: 40px;
+    margin-top: -20px;
 }
 .sidebar_title{
 color: #ffffff;
@@ -84,8 +85,7 @@ line-height: 20px;
 
 
 .join-in-box{
-    margin-bottom: 60px;
-    
+   
 }
     
 
