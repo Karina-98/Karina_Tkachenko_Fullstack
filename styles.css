@@ -157,14 +157,11 @@ line-height: 20px;
 }
 
 .section_main{
-    margin-bottom: 100px;
+    margin-bottom: 40px;
     width: 500px;
 }
 
-.section_projects{
-    margin-bottom: 70px;
-    
-}
+
 
 .project_title{
     font-style: normal;
@@ -183,6 +180,10 @@ line-height: 20px;
 
 .projects_item{
     margin-bottom: 20px;
+}
+
+.project_bracket{
+    color:blueviolet;
 }
 
 .title{
@@ -222,4 +223,9 @@ line-height: 20px;
     font-weight: 600;
     font-size: 15px;
     line-height: 18px; 
+}
+
+.contacts_country{
+   
+    color:rgb(197, 104, 104);
 }
