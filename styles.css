@@ -4,7 +4,7 @@ body {
   }
   
  .info-div{
-    width: 1270px;
+    width: 1200px;
     padding: 25px;
     position: relative;
     background-color: beige;
@@ -123,7 +123,7 @@ line-height: 20px;
 }
 
 .all-info{
-    max-width: 800px;
+    max-width: 750px;
     position: absolute;
     top: 0px;
     right: 0px;
@@ -158,10 +158,12 @@ line-height: 20px;
 
 .section_main{
     margin-bottom: 100px;
+    width: 650px;
 }
 
 .section_projects{
     margin-bottom: 70px;
+    
 }
 
 .project_title{
