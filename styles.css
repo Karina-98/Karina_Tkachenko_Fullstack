@@ -44,7 +44,7 @@ margin-bottom: 20px;
   }
 
   .contacts {
-display: flex;
+
 text-align: left;
 justify-content: center;
 flex-direction: column;
@@ -73,13 +73,13 @@ color: #ffffff;
 }
 
 .section_tech_skills{
-    display: flex;
+    /* display: flex; */
     text-align: left;
     justify-content: center;
     flex-direction: column;
     margin-left: 40px;  
     height: 700px;
-    margin-top: 20px;
+    
 }
 .tech_skills_list{
     color:#ffffff;
@@ -225,7 +225,8 @@ line-height: 27px;
 
 .projects_list{
     list-style: none;
-    
+    padding-left: 0;
+
 }
 
 .project_link{
@@ -234,13 +235,11 @@ line-height: 27px;
 }
 
 .project-div{
-    display: flex;
+    
     align-items: center;
     
 }
-.project-h{
-    margin-left: 10px;
-}
+
 
 .projects_item{
     margin-bottom: 20px;
